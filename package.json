@@ -25,5 +25,10 @@
     "bugs": {
         "url": "https://github.com/webdeveloperstudio/version_info/issues"
     },
-    "homepage": "https://github.com/webdeveloperstudio/version_info#readme"
+    "homepage": "https://github.com/webdeveloperstudio/version_info#readme",
+    "devDependencies": {
+        "html-webpack-plugin": "^5.5.0",
+        "path": "^0.12.7",
+        "webpack": "^5.72.0"
+    }
 }
