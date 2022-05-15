@@ -1,0 +1,13 @@
+[{
+    "app_name": "app1",
+    "app_version": "1.0.0",
+    "version_code": "1",
+    "version_name": "1.0.0",
+    "version_desc": "Text",
+    "version_type": "minor",
+    "version_url": "http://www.baidu.com",
+    "version_md5": "123456789",
+    "version_size": "123456789",
+    "version_date": "2018-01-01",
+    "version_status": "deployed"
+}]

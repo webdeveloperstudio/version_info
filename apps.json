@@ -1,0 +1,11 @@
+[{
+    "name": "app1",
+    "version": "1.0.0",
+    "description": "app1 description",
+    "url": "http://localhost:8080/app1",
+    "icon": "http://localhost:8080/app1/icon.png",
+    "autor_name": "app1 author",
+    "autor_email": "",
+    "autor_website": "",
+    "autor_github": ""
+}]
